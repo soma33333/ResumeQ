@@ -1,0 +1,5 @@
+transformers
+bitsandbytes
+accelerate
+PyPDF2
+python-dotenv
